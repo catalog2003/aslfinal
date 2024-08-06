@@ -6,6 +6,10 @@
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
+![Project Screenshot](https://github.com/catalog2003/aslfinal/blob/main/FIRST.png) <!-- Replace with your image URL -->
+![Project Screenshot](https://github.com/catalog2003/aslfinal/blob/main/SECOND.png) <!-- Replace with your image URL -->
+![Project Screenshot](https://github.com/catalog2003/aslfinal/blob/main/THIRD%20(1).png) <!-- Replace with your image URL -->
+![Project Screenshot](https://github.com/catalog2003/aslfinal/blob/main/LAST.png) <!-- Replace with your image URL -->
 
 - [Node.js](https://nodejs.org/) (>= 12.0.0)
 - [Yarn](https://yarnpkg.com/) (optional, but recommended)
