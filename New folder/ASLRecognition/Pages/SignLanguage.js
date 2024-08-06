@@ -17,8 +17,8 @@ import IconImage3 from '../assets/icon3.png';
 const { width: screenWidth, height: screenHeight } = Dimensions.get('window');
 const cameraAspectRatio = 4 / 3; // Adjust as needed
 
-const SERVER_URL = 'http://192.168.1.11:5000'; // Replace with your Flask server URL
-const apiKey = '43192c25-713d-4aba-acba-e81793235fa7:411147bbe78ecff11c3c15182732c2dd'; // Insert your API key here
+const SERVER_URL = 'ip generated from server'; // Replace with your Flask server URL
+const apiKey = 'fal ai api'; // Insert your API key here
 
 // YellowBox component
 const YellowBox = ({ children }) => (
