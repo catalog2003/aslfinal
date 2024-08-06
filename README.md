@@ -28,6 +28,7 @@ Ensure you have the following installed on your machine:
 
     ```bash
     npm install
+    npm install react@18.3.1  
     # or if you use Yarn
     yarn install
     ```
