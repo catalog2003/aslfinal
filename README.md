@@ -1,10 +1,5 @@
-# Project Name
+# ASL APP 
 
-## Overview
-
-Briefly describe your project, its purpose, and any key features. Include screenshots or GIFs if relevant.
-
----
 
 ## React Native
 
@@ -104,39 +99,5 @@ Ensure you have Python installed (>= 3.6). You can download it from [python.org]
 
 - **Dependency conflicts:** Ensure your `requirements.txt` file is up-to-date. You can regenerate it with `pip freeze > requirements.txt`.
 - **Virtual environment issues:** Ensure it is activated before running Python commands.
-
----
-
-## Contributing
-
-If you’d like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch:
-
-    ```bash
-    git checkout -b feature-branch
-    ```
-
-3. Commit your changes:
-
-    ```bash
-    git add .
-    git commit -m "Add meaningful commit message"
-    ```
-
-4. Push to the branch:
-
-    ```bash
-    git push origin feature-branch
-    ```
-
-5. Open a Pull Request.
-
----
-
-## License
-
-Include your project's license here.
 
 ---
